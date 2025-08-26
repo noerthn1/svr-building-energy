@@ -28,7 +28,7 @@ Dataset Source: [UCI Energy Efficiency Dataset](https://archive.ics.uci.edu/ml/d
 - **RMSE**: 2.82  
 - **MAE**: 1.88  
 
-![SVR Predicted vs Actual](images/svr_pred_vs_actual.png)
+![SVR Predicted vs Actual](images/plot.png)
 
 The model shows strong predictive performance, with points closely following the red reference line.
 
